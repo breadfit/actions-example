@@ -1,0 +1,14 @@
+{
+  "main": "src/index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "jest-environment-node"
+  }
+}
